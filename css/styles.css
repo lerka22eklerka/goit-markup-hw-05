@@ -68,14 +68,6 @@ img {
   display: flex;
 }
 
-/* .nav-studio::after {
-  content: "";
-  background-color: #2196f3;
-  width: 48px;
-  height: 4px;
-  border-radius: 2px;
-  position: absolute;
-} */
 .nav-item:not(:last-child) {
   margin-right: 50px;
 }
@@ -114,29 +106,11 @@ img {
 }
 
 
-
 .nav-link:hover,
 .nav-link:focus {
   color: #2196f3;
 }
-/* .nav-link:hover::after {
-  content: "";
-  position: absolute;
-  background-color: #2196f3;
-  width: 48px;
-  height: 4px;
-  border-radius: 2px;
-  
-} */
 
-/* .nav-item::after {
-  content: "";
-  background-color: red;
-  width: 48px;
-  height: 4px;
-  border-radius: 2px;
-  position: absolute;
-} */
 
 .contacts {
   list-style: none;
