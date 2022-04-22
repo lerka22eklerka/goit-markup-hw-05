@@ -88,7 +88,6 @@ img {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-
 .current {
   position: relative;
   color: #2196f3;
@@ -105,12 +104,10 @@ img {
   background-color: #2196f3;
 }
 
-
 .nav-link:hover,
 .nav-link:focus {
   color: #2196f3;
 }
-
 
 .contacts {
   list-style: none;
@@ -275,7 +272,6 @@ img {
   padding: 27px;
   text-align: center;
   margin-bottom: 0;
-
 }
 
 .three-list {
@@ -498,7 +494,6 @@ img {
 
 .gallery-project:hover .text-pfl {
   transform: translateY(0);
-
 }
 
 .gallery-link {
@@ -535,7 +530,6 @@ img {
   transition-property: transform;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  
 }
 
 .gallery-name {
