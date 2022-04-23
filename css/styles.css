@@ -492,7 +492,8 @@ img {
   margin-bottom: 30px;
 }
 
-.gallery-project:hover .text-pfl {
+.gallery-link:hover .text-pfl,
+.gallery-link:focus .text-pfl {
   transform: translateY(0);
 }
 
